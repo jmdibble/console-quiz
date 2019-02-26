@@ -37,12 +37,10 @@ if (userInput == questionsArray[randomNumber].answer) {
 };
 
 
-// var lastName = prompt("What is his last name?");
-// console.log(firstName + " " + lastName);
+///////////// ADDITIONS ////////////////
 
-
-
-
-
+// Display the next question (write a function and call it after displaying the result)
+// Make sure there is a way to quit the game
+// Track the users score (potentially use closures)
 
 
